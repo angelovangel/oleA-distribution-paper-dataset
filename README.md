@@ -1,8 +1,8 @@
-# oleA-distribution-dataset
+# oleA-paper-dataset
 Dataset for the paper "Distribution and diversity of olefins and olefin-biosynthesis genes in Gram-positive bacteria" by Surger et al., 2020.
 
 ## Description
-The dataset contains 3420 entries in a tab-delimited text file, with the following variables:
+The dataset (`oleA-paper-dataset.tsv`) contains 3420 entries in a tab-delimited text file, with the following variables:
 ```bash
 taxon_id  Domain  Status  Study Genome_Name Sequencing_Center IMG_ID  Phylum  Class Order Family  Genus Species taxid Strain  Genome_Size Gene_Count  score2
 ```
